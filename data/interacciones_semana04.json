@@ -1,0 +1,24 @@
+{
+  "origen_comunidad": "Discord_Grupo_ONE_G10",
+  "periodo_referencia": "Semana_04",
+  "interacciones": [
+    {"autor": "Mariana Souza", "canal": "#logros-y-empleos", "tipo": "testimonio",
+     "texto": "Comunidad, quede seleccionada para el puesto de Desarrolladora Junior de IA! El proyecto del curso de LangChain y OCI que construi en mi portfolio marco toda la diferencia en la entrevista tecnica. Muy agradecida con la comunidad por todo el apoyo! 🚀"},
+    {"autor": "Lucas Albuquerque", "canal": "#dudas-langgraph", "tipo": "pregunta_tecnica",
+     "texto": "Tengo dudas sobre como estructurar los nodos condicionales en LangGraph cuando la respuesta del LLM necesita reintento. Alguien tiene un ejemplo practico de router?"},
+    {"autor": "Valentina Rojas", "canal": "#proyectos", "tipo": "entrega_proyecto",
+     "texto": "Por fin publique mi proyecto final: un chatbot RAG que responde preguntas sobre la documentacion de OCI usando embeddings y Streamlit. Me encanto el reto, gracias a los mentores por el feedback de la semana pasada! Dejo el repo en mi perfil 🙌"},
+    {"autor": "Andrés Quispe", "canal": "#dudas-oci", "tipo": "pregunta_tecnica",
+     "texto": "Como configuro el archivo ~/.oci/config en Windows para subir JSON a un bucket Always Free desde Python? Me sale error de fingerprint."},
+    {"autor": "Camila Torres", "canal": "#general", "tipo": "feedback",
+     "texto": "Honestamente estoy muy frustrada, voy atrasada con el modulo de agentes y no entiendo como conectar n8n con el webhook. Siento que voy a abandonar si no me sale esta semana."},
+    {"autor": "Joaquín Méndez", "canal": "#logros-y-empleos", "tipo": "testimonio",
+     "texto": "Aprobe la certificacion OCI Foundations gracias a los labs del programa ONE. Hace seis meses no sabia nada de cloud, hoy me siento listo para postular a mi primer trabajo en datos. Gracias equipo!"},
+    {"autor": "Sofía Paredes", "canal": "#prompt-engineering", "tipo": "debate",
+     "texto": "Que opinan: few-shot o instrucciones detalladas para mantener la voz de marca en los copys de LinkedIn? En mis pruebas few-shot da un tono mas natural."},
+    {"autor": "Diego Huamán", "canal": "#dudas-langgraph", "tipo": "pregunta_tecnica",
+     "texto": "Alguien sabe como guardar el estado de un grafo de LangGraph entre ejecuciones? Probe con checkpointer en memoria pero se pierde al reiniciar la app."},
+    {"autor": "Renata Lima", "canal": "#general", "tipo": "feedback",
+     "texto": "Los videos de la semana 4 estuvieron geniales, pero el enlace del notebook de pandas esta roto. Pueden revisarlo?"}
+  ]
+}
